@@ -28,7 +28,7 @@ export default function App(){
       <div className='row-start-3 bg-zinc-900 row-span-12 col-span-12 grid grid-cols-24 grid-rows-24 rounded-2xl m-3 z-10 overflow-y-auto'>
 
         {/* Div do deserto */}
-        <div className='m-3 col-start-2 col-span-22 row-span-18 bg-neutral-800 rounded-md shadow-[4px_4px_0px] shadow-neutral-700 flex flex-col sm:row-span-16 sm:col-span-12 md:row-span-18 md:col-span-10 lg:col-span-8 lg:row-span-18 xl:col-span-8 2xl:row-span-16 2xl:col-span-6 items-center gap-5 p-5'>
+        <div className='m-3 col-start-2 col-span-22 row-span-18 bg-neutral-800 rounded-md shadow-[4px_4px_0px] shadow-neutral-700 flex flex-col sm:row-span-16 sm:col-span-12 md:row-span-16 md:col-span-10 lg:col-span-8 lg:row-span-17 xl:col-span-8 2xl:row-span-16 2xl:col-span-6 items-center gap-5 p-5'>
           <img src={DesertStorm} alt="desert" className='mt-5 rounded-md w-110 col-span-22 row-span-24 col-start-2 row-start-2 sm:w-90 lg:col-start-3 lg:row-span-12 lg:row-start-2'/>
           <h1 className='row-start-14 font-Minefactory col-span-24 col-start-2 text-[24px] text-white sm:text-[20px] md:text[32px] self-start'>SandStorm Addon</h1>
           <p className='row-start-16 text-white font-Minecraft col-span-24 col-start-2 self-start'>Add sandstorm to your deserts</p>
