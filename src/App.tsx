@@ -32,7 +32,7 @@ export default function App(){
           <img src={DesertStorm} alt="desert" className='mt-5 rounded-md w-110 col-span-22 row-span-24 col-start-2 row-start-2 sm:w-90 lg:col-start-3 lg:row-span-12 lg:row-start-2'/>
           <h1 className='row-start-14 font-Minefactory col-span-24 col-start-2 text-[24px] text-white sm:text-[20px] md:text[32px] self-start'>SandStorm Addon</h1>
           <p className='row-start-16 text-white font-Minecraft col-span-24 col-start-2 self-start'>Add sandstorm to your deserts</p>
-          <button className='w-35 h-15 bg-green-700 rounded-md shadow-[4px_4px_0px] shadow-green-600 cursor-pointer transition-all hover:scale-[1.02] text-white font-Minefactory self-end'>Download</button>
+          <button className='w-35 h-15 bg-green-700 rounded-md shadow-[4px_4px_0px] shadow-green-600 cursor-pointer transition-all hover:scale-[1.02] text-white font-Minefactory self-end'><a href="https://www.mediafire.com/file/86qirjauznxfhir/Better+Desert.zip/file">Download</a></button>
         </div>
 
       </div>
