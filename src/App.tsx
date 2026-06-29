@@ -3,8 +3,6 @@ import Video from './assets/cherry.mp4';
 import DesertStorm from './assets/DesertStorm.png';
 
 export default function App(){
-  const mesage = encodeURIComponent("Olá! acessei seu portifólio e gostaria de encomendar um addon");
-
   return(
     <main className="grid grid-cols-12 grid-rows-12 h-screen bg-[url('./assets/cherry.png')] bg-center bg-cover">
       <video
